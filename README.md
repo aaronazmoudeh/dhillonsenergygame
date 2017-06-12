@@ -11,3 +11,5 @@ I designed the entire game map and physics using Blender and Unity.  I also crea
 using Unity. I connected the daily events to the daytime events to the user interface using C#.  I created the sequence
 of events or objectives that occur, and updated the user interface appropriately to inform the player of what to do next
 using C#.
+
+The game can be run as an executable by following Final -> Final Game 2.exe
